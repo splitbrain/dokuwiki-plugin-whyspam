@@ -1,0 +1,5 @@
+====== Spam Check ======
+
+This tool lets you check a text for spam blocked by the wiki's [[doku>blacklist]] feature. It will display which config lines are responsible for blocking a text as spam.
+
+

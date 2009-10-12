@@ -1,0 +1,10 @@
+.dokuwiki form.whyspam {
+    display: block;
+    margin-bottom: 2em;
+}
+.dokuwiki form.whyspam fieldset {
+    width: 50%;
+}
+.dokuwiki form.whyspam textarea {
+    height: 25em;
+}
