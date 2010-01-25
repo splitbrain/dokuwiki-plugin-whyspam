@@ -1,0 +1,7 @@
+base   whyspam
+author Andreas Gohr
+email  andi@splitbrain.org
+date   2009-10-12
+name   Why Spam? Plugin
+desc   Allows managers to check why a certain text was blocked as spam.
+url    http://www.dokuwiki.org/plugin:whyspam
