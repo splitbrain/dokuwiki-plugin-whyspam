@@ -37,7 +37,7 @@ class admin_plugin_whyspam extends DokuWiki_Admin_Plugin {
     function html() {
         global $config_cascade;
 
-        echo $this->plugin_locale_xhtml('intro');
+        echo $this->locale_xhtml('intro');
         echo '<form method="post" action="" class="whyspam">';
         echo '<fieldset>';
         echo '<legend>'.$this->getLang('paste').'</legend>';
@@ -96,4 +96,4 @@ class admin_plugin_whyspam extends DokuWiki_Admin_Plugin {
 
 
 }
-//Setup VIM: ex: et ts=4 enc=utf-8 :
+//Setup VIM: ex: et ts=4 :
